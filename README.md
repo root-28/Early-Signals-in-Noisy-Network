@@ -1,5 +1,5 @@
 # Early-Signals-in-Noisy-Network
-📄 Paper Title : Early Signals in Noisy Network: A Meta Hybrid Deep learning framework for Reconnaissance Detection in IoT Environments
+**📄 Paper Title** : Early Signals in Noisy Network: A Meta Hybrid Deep learning framework for Reconnaissance Detection in IoT Environments
 
 🎯 Research Objective
 The objective is to investigate whether combining optimized recurrent deep learning with gradient-boosted meta-classification can improve reconnaissance/attack detection performance in noisy and diverse IoT traffic.
@@ -39,23 +39,7 @@ Dropout rate
 
 **Complete Map**
 
-CIC-IoT2023
-     ↓
-Data Preprocessing
-     ↓
-Dataset Reconstruction
-     ↓
-80/20 Train-Test Split
-     ↓
-AVOA-Optimized LSTM
-     ↓
-Deep Feature Representation
-     ↓
-XGBoost Meta-Classifier
-     ↓
-Bagging Ensemble
-     ↓
-Final Prediction
+**CIC-IoT2023 → Data Preprocessing → Dataset Reconstruction → 80/20 Train-Test Split → AVOA-Optimized LSTM → Deep Feature Representation → XGBoost Meta-Classifier → Bagging Ensemble → Final Prediction**
 
 
 **📊 Experimental Results**
