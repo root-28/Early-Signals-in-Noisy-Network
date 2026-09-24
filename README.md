@@ -45,3 +45,6 @@ Dropout rate
 | LSTM + AVOA       |     70 |         32 |   0.8800 |     0.8889 |    0.9143 | 0.8649 |
 | LSTM + AVOA       |    128 |         64 |   0.9000 |     0.9083 |    0.9252 | 0.8919 |
 | Meta-Hybrid Model |    200 |         64 |   0.9542 | **0.9900** |    0.9313 | 0.8744 |
+
+Dataset used : CIC IoT dataset 2023  
+link : https://www.unb.ca/cic/datasets/iotdataset-2023.html
