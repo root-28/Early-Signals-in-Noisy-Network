@@ -39,7 +39,7 @@ Learning rate
 Weight initialization
 Dropout rate
 
-**Complete Map**
+**Meta-Hybrid Model Complete Map**
 
 **CIC-IoT2023 → Data Preprocessing → Dataset Reconstruction → 80/20 Train-Test Split → AVOA-Optimized LSTM → Deep Feature Representation → XGBoost Meta-Classifier → Bagging Ensemble → Final Prediction**
 
